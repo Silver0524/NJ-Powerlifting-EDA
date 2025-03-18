@@ -30,7 +30,7 @@ A few of the visual highlights:
 
 **Competitive powerlifting totals have stayed relatively consistent throughout the years.**
 
-<p align="center"><img src="./Graphs/mf_avg_total_per_year.png" alt="Graph showing the average totals for men and women per year." width="450" height="300"/></p>
+<p align="center"><img src="./Graphs/mf_avg_total_per_year.png" alt="Graph showing the average totals for men and women per year." width="450" height="350"/></p>
 
 **While the lifts are all strongly correlated with each other, there is a lot of variation in a lifter's relative strength (especially for women).**
 
@@ -42,5 +42,5 @@ A few of the visual highlights:
 
 **Age seems to have more of an impact on male lifters than female lifters.**
 
-<p align="center"><img src="./Graphs/m_age_vs_total.png" alt="Graph showing age vs total for men." width="450" height="300"/></p>
-<p align="center"><img src="./Graphs/f_age_vs_total.png" alt="Graph showing age vs total for women." width="450" height="300"/></p>
+<p align="center"><img src="./Graphs/m_age_vs_total.png" alt="Graph showing age vs total for men." width="450" height="350"/></p>
+<p align="center"><img src="./Graphs/f_age_vs_total.png" alt="Graph showing age vs total for women." width="450" height="350"/></p>
