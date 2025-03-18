@@ -16,7 +16,7 @@
 
 The following changes were made to the original data, to best support the analysis I was trying to do:
 
-- Filtered for only tested, full powerlifting meets in Oklahoma
+- Filtered for only tested, full powerlifting meets in New Jersey
   - `Tested` == 'Yes', `MeetCountry` == 'USA', `MeetState` == 'NJ', `Event` == 'SBD', `Sanctioned` == 'Yes'
 - Dropped many unneeded features, such as location columns, columns filtered for just one value, any lift features other than the lifter's best for each lift, etc.
 - Filtered out any records where the lifter was disqualified or failed to register a successful attempt for any of the three lifts
