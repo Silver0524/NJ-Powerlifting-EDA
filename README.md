@@ -40,7 +40,7 @@ A few of the visual highlights:
 
 <p align="center"><img src="./Graphs/mf_bodyweight_vs_total.png" alt="Graph showing bodyweight vs totals for men and women." width="900" height="300"/></p>
 
-**Age seems to have more of an impact on male lifters than female lifters.**
+**The relationship between age and powerlifting totals follows a downward parabola, with performance peaking in early adulthood before gradually declining with age.**
 
 <p align="center"><img src="./Graphs/m_age_vs_total.png" alt="Graph showing age vs total for men." width="450" height="350"/></p>
 <p align="center"><img src="./Graphs/f_age_vs_total.png" alt="Graph showing age vs total for women." width="450" height="350"/></p>
